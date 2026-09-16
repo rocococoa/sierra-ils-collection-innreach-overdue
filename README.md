@@ -5,7 +5,7 @@
 ## Summary
 **What it does:** This automated report lists collection items loaned to INN-Reach (Link+) libraries that are 30+ days overdue.
 
-**Impact:** Empowers collection development librarians by automatically delivering scheduled reports that include actionable insights on items to consider for repurchase.
+**Impact:** Empowers collection development librarians by automatically delivering a monthly scheduled report that include actionable insights on items to consider for repurchase.
 
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
