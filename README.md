@@ -7,6 +7,12 @@
 
 **Impact:** Empowers collection development librarians by automatically delivering a monthly scheduled report that includes actionable insights on items to consider for repurchase.
 
+## Features and Deliverables
+
+**Automated Email:**
+
+<img width="730" height="563" alt="Link+ Overdue Items Email" src="https://github.com/user-attachments/assets/6048dedd-42fa-4f76-a85a-67a46b22d136" />
+
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
 
