@@ -13,6 +13,13 @@
 
 <img width="730" height="563" alt="Link+ Overdue Items Email" src="https://github.com/user-attachments/assets/6048dedd-42fa-4f76-a85a-67a46b22d136" />
 
+**Attached Excel Report:**
+
+<img width="1310" height="918" alt="Link-Overdue" src="https://github.com/user-attachments/assets/d30175c8-cf89-4ede-8d2f-fb40eb9be0b6" />
+
+
+<img width="1307" height="921" alt="Link-Overdue" src="https://github.com/user-attachments/assets/0a870939-4133-4869-8e12-9b670abe43f5" />
+
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
 
