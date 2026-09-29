@@ -17,6 +17,11 @@
 
 <img width="1310" height="918" alt="Link-Overdue" src="https://github.com/user-attachments/assets/d30175c8-cf89-4ede-8d2f-fb40eb9be0b6" />
 
+Beyond surfacing INN-Reach items that are overdue, to streamline repurchase decisions, this report provides key metrics for each item, including:
+- Recent circulation data
+- Current holds
+- Total system copies
+- Active due date
 
 <img width="1307" height="921" alt="Link-Overdue" src="https://github.com/user-attachments/assets/0a870939-4133-4869-8e12-9b670abe43f5" />
 
